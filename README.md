@@ -26,9 +26,10 @@ Le maire de Funkytown souhaite soutenir une **politique numérique** auprès des
 
 Voici les **premiers contrats** décrochés par l'ESN eXia :
 
- 
 
 ## ESN eXia
+
+<p align="center"><img src ="https://i.imgur.com/3Pq5zLa.png" width="500" height="300"></img></p> 
 
 L'ESN eXia s'installe, nous devons installer le réseau en suivant ce cahier des charges ci-dessous :
 
@@ -71,9 +72,10 @@ L'ESN eXia s'installe, nous devons installer le réseau en suivant ce cahier des
   - Câblage adapté au besoin/charge
 
 
-
  
 ## Bibliothèque
+
+<p align="center"><img src ="https://i.imgur.com/MCWlNaO.png" width="500" height="300"></img></p> 
 
 La politique d'investissement du maire de FunkyTown permet de débloquer des fonds pour la bibliothèque municipale. Elle va pouvoir avoir du bon matériel pour travailler :
 
@@ -108,9 +110,12 @@ La politique d'investissement du maire de FunkyTown permet de débloquer des fon
 
   - Adressage dynamique avec un DNS public
   - Accès WEB
- 
+
+
 
 ## Engie
+
+<p align="center"><img src ="https://i.imgur.com/IjzOj2D.png" width="500" height="300"></img></p> 
 
 Le courant passe bien entre le maire et le groupe industriel énergétique Engie. Celui-ci rend de fiers services à la ville de FunkyTown en maintenant son réseau électrique ! En revanche, son réseau informatique laisse à désirer. Le groupe ayant plusieurs équipes, il va falloir segmenter le réseau.
 
@@ -169,9 +174,10 @@ Le courant passe bien entre le maire et le groupe industriel énergétique Engie
   - Adressage IP dynamique
   - Accès WEB
 
- 
 
 ## DIGIPLEX
+
+ <p align="center"><img src ="https://i.imgur.com/1KzEmI4.png" width="500" height="300"></img></p> 
 
 Digiplex propose des solutions numériques tout en préservant l'environnement. Pas facile d'être une entreprise rentable en respectant ses valeurs et un prix juste pour les clients. L'aide de la ville est vécu comme une opportunité par l'entreprise !
 
@@ -220,8 +226,10 @@ Digiplex propose des solutions numériques tout en préservant l'environnement. 
   - Chaque PC (Fixe et laptop) doit avoir avec un accès WEB
  
 
+
 ## Datacenter
 
+<p align="center"><img src ="https://i.imgur.com/UDQjoVo.png" width="500" height="300"></img></p> 
 
 eXia a maintenant un portefeuille de clients intéressants. Elle souhaite faire évoluer son offre et a investi dans un serveur Meraki qu'elle a choisi d'héberger dans le cloud. Le but premier de ce serveur sera de centraliser la configuration des routeurs clients Meraki que l'entreprise déploiera par la suite chez ses futurs clients.
 
@@ -237,13 +245,13 @@ eXia a maintenant un portefeuille de clients intéressants. Elle souhaite faire 
 
 
 
-### Équipe Projet
+## Équipe Projet
 
 - **WROBLEWSKI** Martin (_Chef de projet_)
 - **MORET** Cyril
 - **WYART** Nathan
 
-### Languages et Outils utilisés
+## Languages et Outils utilisés
 Pour la réalisation de notre application nous avons utiliés :
 
 - <img src="https://i.imgur.com/anG8hOq.png" width="30" height="30"/></a>  Utilisation de Packet Tracer pour la réalisation de la maquette.
@@ -251,44 +259,4 @@ Pour la réalisation de notre application nous avons utiliés :
 - <img src="https://i.imgur.com/uH5Smjt.png" alt="dotnet" width="60" height="30"/></a>  Utilisation de Visio pour la réalisation du schéma logique de l'ensemble des réseaux.
  
 ## Réalisation
-Nous avons commencer par se répartir les tâches, ensuite nous avons réalisés la modélisation logicielle et de données grâce à différents diagrammes, et enfin la réalisation de notre solution (application et base de données).
-### Les Diagrammes
-Le premier était un **OBS** afin de se répartir les tâches équitablements et astucieusements :
-
-<p align="center"><img src="https://imgur.com/kYFGRqa.png"></img></p>
-
-Nous avons pu également réaliser un diagramme de **Classes** afin modéliser le programme avant de le créer :
-
-<p align="center"><img src="https://imgur.com/R3SMR7j.png" width="686.5" ></img></p>
-
-Et pour la base de données nous avons réalisés un Modèle Logique de Données :
-
-<p align="center"><img src="https://imgur.com/eFYJxoA.png"  ></img></p>
-
-> ! Les autres diagrammes que nous avons pus réaliser se trouvent dans les annexes.
-
-### La Programmation
-Grâce aux différents diagrammes nous sommes ensuite passés à la réalisation de notre solution.
-
-Le programme à était réalisé avec Visual Studio et voici un exemple de l'interface :
-
-
-<p align="center"><img src="https://imgur.com/3qCutfy.png"></img></p>
-
-
-Afin de collaborer correctement et facilement sur le programme nous avons utilisés GitHub qui nous permet de travailler sur le même code, de le partager aux autres et de récupérer les changements apportés par les autres membres de l'équipe, en voici un exemple :
-
-
-<p align="center"><img src="https://imgur.com/CYpJecz.png"></img></p>
-
-
-### La Base de Données
-
-Nous avons réalisés la base de données avec SQL Server et voici également un exemple de l'interface :
-
-<p align="center"><img src="https://imgur.com/hPl6PIf.png"></img></p>
-
-## Test d'utilisation
-
-<p align="center"><img src="https://imgur.com/bgabLpY.png"></img></p>
-<p align="center"><img src="https://imgur.com/m65tu2D.png"></img></p>
+Nous avons commencer par se répartir les tâches, ensuite nous avons ...
