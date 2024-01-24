@@ -24,10 +24,10 @@
 
 Le maire de Funkytown souhaite soutenir une **politique numérique** auprès des entreprises de la ville. Cette aide arrive au bon moment pour **l'ESN eXia** qui vient de s'implanter dans la ville. De nombreux contrats ont été décrochés grâce à cette politique de soutien.
 
-Voici les **premiers contrats** décrochés par l'eXia :
+Voici les **premiers contrats** décrochés par l'ESN eXia :
 
 
-## Exia
+## ESN Exia
 
 <p align="center"><img src ="https://i.imgur.com/3Pq5zLa.png" width="500" height="300"></img></p> 
 
@@ -73,7 +73,7 @@ L'ESN eXia s'installe, nous devons installer le réseau en suivant ce cahier des
 
 
  
-## Bibliothèque
+### Bibliothèque
 
 <p align="center"><img src ="https://i.imgur.com/MCWlNaO.png" width="500" height="300"></img></p> 
 
