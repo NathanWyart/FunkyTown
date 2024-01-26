@@ -13,14 +13,6 @@
       - [Datacenter](#Datacenter)
   - [Présentation de l'équipe](#Équipe-Projet)
   - [Languages et Outils utilisés](#Languages-et-Outils-utilisés)
-    
-- [Réalisation](#Réalisation)
-  - [Exia](#RéalExia)
-  - [Bibliothèque](#RéalBibliothèque)
-  - [Engie](#RéalEngie)
-  - [Digiplex](#RéalDigiplex)
-  - [Datacenter](#RéalDatacenter)
-
 
 
 
@@ -262,6 +254,3 @@ Pour la réalisation de notre application nous avons utiliés :
 - <img src="https://i.imgur.com/anG8hOq.png" width="30" height="30"/></a>  Utilisation de Packet Tracer pour la réalisation de la maquette.
 - <img src="https://imgur.com/8OEkEwz.jpg" alt="dotnet" width="60" height="30"/></a>  Utilisation de GitHub pour le versioning des fichiers.
 - <img src="https://i.imgur.com/uH5Smjt.png" alt="dotnet" width="60" height="30"/></a>  Utilisation de Visio pour la réalisation du schéma logique de l'ensemble des réseaux.
- 
-## Réalisation
-Nous avons commencer par se répartir les tâches, ensuite nous avons ...
